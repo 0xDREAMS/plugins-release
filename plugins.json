@@ -1,0 +1,8 @@
+[{"projectUrl":"https://github.com/0xDREAMS/plugins-release",
+"provider":"0xDREAMS",
+"name":"Text to Speech Extended",
+"description":"A plugin for tts.",
+"id":"ttsextended-plugin",
+"releases":[{"date":"2021-02-27",
+	"url":"https://github.com/0xDREAMS/plugins-release/release/ttsextended-1.0.0.jar?raw=true",
+"version":"1.0.0"}]}]
